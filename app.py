@@ -1,7 +1,4 @@
 from flask import Flask, render_template, request
-import pandas as pd
-from sklearn.ensemble import RandomForestClassifier
-import joblib
 
 # Load the trained model when the Flask app starts
 model = joblib.load('model.pkl')
