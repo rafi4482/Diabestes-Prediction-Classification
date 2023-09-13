@@ -20,11 +20,7 @@ Welcome to the Diabetes Prediction project! This machine learning project aims t
 
 The project uses machine learning algorithms to predict diabetes based on a dataset of health-related features. We explore the data, preprocess it, build predictive models, and evaluate their performance.
 
-## Getting Started
-
-### Prerequisites
-
-Before running the project, ensure you have the following prerequisites:
+The frameworks/libraries used in this project:
 
 - Python 3.11
 - Libraries: NumPy, Pandas, Matplotlib, scikit-learn
