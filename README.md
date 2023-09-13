@@ -28,3 +28,16 @@ The frameworks/libraries used in this project:
 ![Dataset](images/data.png)
 
 The dataset used for this project contains health-related features, including age, BMI, and glucose levels. It's available in the data directory.
+
+## Exploratory Data Analysis
+
+![Number](images/number.png)
+
+![gender](images/gender.png)
+
+![HBA1C](images/hbc.png)
+
+![heatmap](images/heatmap.png)
+
+
+We perform exploratory data analysis (EDA) to gain insights into the dataset, visualize feature distributions, and identify correlations.
