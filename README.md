@@ -10,7 +10,6 @@ Welcome to the Diabetes Prediction project! This machine learning project aims t
 - [Model Building](#model-building)
 - [Evaluation](#evaluation)
 - [Tuning](#tuning)
-- [Results](#results)
 
 ## Project Overview
 
@@ -41,3 +40,18 @@ The dataset used for this project contains health-related features, including ag
 
 
 We perform exploratory data analysis (EDA) to gain insights into the dataset, visualize feature distributions, and identify correlations.
+
+## Model Building
+
+![accuracy](images/accuracy.png)
+
+We build machine learning models, including Logistic Regression, Decision Tree, and Random Forest, to predict diabetes outcomes.
+
+## Evaluation
+
+![metric](images/metric.png)
+
+We evaluate model performance using accuracy, precision, recall, and F1-score metrics. The ROC curve and AUC are also visualized.
+
+## Tuning
+We fine-tune the models using RandomizedSearchCV and GridSearchCV to optimize hyperparameters.
