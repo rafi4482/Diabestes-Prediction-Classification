@@ -25,6 +25,6 @@ The frameworks/libraries used in this project:
 
 ## Dataset
 
-![Dataset](images/data.jpg)
+![Dataset](images/data.png)
 
 The dataset used for this project contains health-related features, including age, BMI, and glucose levels. It's available in the data directory.
